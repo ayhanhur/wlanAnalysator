@@ -21,7 +21,7 @@ function bits = myde2bi(dec, binits)
 %
 % See also: MYBI2DE, DEMAPPER (hard decision case)
 %
-% Author: Christian Schilling <christian.schilling@udo.edu>
+
 
 destlen = length(dec)*binits;
 
